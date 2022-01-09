@@ -1,7 +1,6 @@
 ## Hi there, I'm Vitor (aka Torudson) 👋 
 
-### Languages and Tools:
-
+### Languages and Tools
 [<img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
 [<img align="left" alt="HTML5" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="left" alt="CSS3" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -17,18 +16,19 @@
 [<img align="left" alt="Linux" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />](https://en.wikipedia.org/wiki/Linux)
 
 <br />
+<br />
 
-
-
-### Contact info:
-
+### Contact info
 [<img align="left" alt="LinkedIn" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vitor-wdson-0148b7227/)
 [<img align="left" alt="Discord" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discordapp.com/users/287051666166120448)
 [<img align="left" alt="Slack" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />](https://slack.com/app_redirect?channel=U01FL817DLZ)
 [<img align="left" alt="Email" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:vitor.wdson2@gmail.com)
 
 <br />
+<br />
 
----
+### Want some new musics? Check out my bad taste!
+![Spotify](https://readme-spotify-vitorwdson.vercel.app/api/spotify)
 
+### Github stats:
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://readme-stats-vitorwdson.vercel.app//api?username=vitorwdson&show_icons=true&hide_border=true" />
