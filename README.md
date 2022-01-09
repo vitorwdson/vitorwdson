@@ -27,7 +27,7 @@
 <br>
 <br>
 
-### Want some new musics? Check out my bad taste!
+### Want some new songs? Check out my bad taste!
 ![Spotify](https://readme-spotify-vitorwdson.vercel.app/api/spotify)
 
 ### Github stats:
