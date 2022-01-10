@@ -18,6 +18,18 @@
 <br>
 <br>
 
+### Technologies I plan to learn in 2022 💪
+[<img align="left" alt="GO" width="32px" src="/icons/go.png" />](https://go.dev)
+[<img align="left" alt="Rust" width="32px" src="/icons/rust.png" />](https://www.rust-lang.org)
+[<img align="left" alt="AngularJS" width="32px" src="/icons/agularjs.png" />](https://angularjs.org)
+[<img align="left" alt="VueJS" width="32px" src="/icons/vuejs.png" />](https://vuejs.org)
+[<img align="left" alt="GraphQL" width="32px" src="/icons/graphql.png" />](https://graphql.org)
+[<img align="left" alt="Tailwind CSS" width="32px" src="/icons/tailwind.png" />](https://graphql.org)
+[<img align="left" alt="VIM" width="32px" src="/icons/vim.png" />](https://www.vim.org)
+
+<br>
+<br>
+
 ### Contact me! 📝
 [<img align="left" alt="LinkedIn" width="32px" src="/icons/linkedin.png" />](https://www.linkedin.com/in/vitor-wdson-0148b7227/)
 [<img align="left" alt="Discord" width="32px" src="/icons/discord.png" />](https://discordapp.com/users/287051666166120448)
