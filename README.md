@@ -1,6 +1,6 @@
 ## Hi there, I'm Vitor (aka Torudson) 👋 
 
-### Languages I use
+### Skills ⚡
 [<img align="left" alt="Visual Studio Code" width="32px" src="/icons/vscode.png" />](https://code.visualstudio.com)
 [<img align="left" alt="HTML5" width="32px" src="/icons/html.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="left" alt="CSS3" width="32px" src="/icons/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -18,7 +18,7 @@
 <br>
 <br>
 
-### Contact me!
+### Contact me! 📝
 [<img align="left" alt="LinkedIn" width="32px" src="/icons/linkedin.png" />](https://www.linkedin.com/in/vitor-wdson-0148b7227/)
 [<img align="left" alt="Discord" width="32px" src="/icons/discord.png" />](https://discordapp.com/users/287051666166120448)
 [<img align="left" alt="Slack" width="32px" src="/icons/slack.png" />](https://slack.com/app_redirect?channel=U01FL817DLZ)
