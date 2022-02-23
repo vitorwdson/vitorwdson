@@ -9,6 +9,7 @@
 [<img align="left" alt="TypeScript" width="32px" src="/icons/typescript.png" />](https://www.typescriptlang.org)
 [<img align="left" alt="React" width="32px" src="/icons/react.png" />](https://reactjs.org)
 [<img align="left" alt="Node.js" width="32px" src="/icons/nodejs.png" />](https://nodejs.org/en/)
+[<img align="left" alt="GraphQL" width="32px" src="/icons/graphql.png" />](https://graphql.org)
 [<img align="left" alt="SQL" width="32px" src="/icons/sql.png" />](https://en.wikipedia.org/wiki/SQL)
 [<img align="left" alt="MongoDB" width="32px" src="/icons/mongodb.png" />](https://www.mongodb.com)
 [<img align="left" alt="Git" width="32px" src="/icons/git.png" />](https://git-scm.com)
@@ -23,7 +24,6 @@
 [<img align="left" alt="Rust" width="32px" src="/icons/rust.png" />](https://www.rust-lang.org)
 [<img align="left" alt="AngularJS" width="32px" src="/icons/agularjs.png" />](https://angularjs.org)
 [<img align="left" alt="VueJS" width="32px" src="/icons/vuejs.png" />](https://vuejs.org)
-[<img align="left" alt="GraphQL" width="32px" src="/icons/graphql.png" />](https://graphql.org)
 [<img align="left" alt="Tailwind CSS" width="32px" src="/icons/tailwind.png" />](https://graphql.org)
 [<img align="left" alt="VIM" width="32px" src="/icons/vim.png" />](https://www.vim.org)
 
