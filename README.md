@@ -16,7 +16,6 @@
 [<img align="left" alt="MongoDB" width="32px" src="/icons/mongodb.png" />](https://www.mongodb.com)
 [<img align="left" alt="Git" width="32px" src="/icons/git.png" />](https://git-scm.com)
 [<img align="left" alt="GitHub" width="32px" src="/icons/github.png" />](https://github.com)
-[<img align="left" alt="Linux" width="32px" src="/icons/linux.png" />](https://en.wikipedia.org/wiki/Linux)
 
 <br>
 <br>
