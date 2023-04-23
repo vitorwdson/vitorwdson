@@ -45,4 +45,4 @@
 ![Spotify](https://readme-spotify-vitorwdson.vercel.app/api/spotify)
 
 ### Github stats:
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://readme-stats-vitorwdson.vercel.app//api?username=vitorwdson&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://readme-stats-vitorwdson.vercel.app//api?username=vitorwdson&show_icons=true&hide_border=true&count_private=true" />
