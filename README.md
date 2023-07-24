@@ -16,17 +16,19 @@
 [<img align="left" alt="MongoDB" width="32px" src="/icons/mongodb.png" />](https://www.mongodb.com)
 [<img align="left" alt="Git" width="32px" src="/icons/git.png" />](https://git-scm.com)
 [<img align="left" alt="GitHub" width="32px" src="/icons/github.png" />](https://github.com)
+<br>
+<br>
+[<img align="left" alt="Tailwind CSS" width="32px" src="/icons/tailwind.png" />](https://tailwindcss.com/)
+[<img align="left" alt="VIM" width="32px" src="/icons/vim.png" />](https://www.vim.org)
+[<img align="left" alt="GO" width="32px" src="/icons/go.png" />](https://go.dev)
 
 <br>
 <br>
 
 ### Technologies I plan to learn in 2023 💪
-[<img align="left" alt="GO" width="32px" src="/icons/go.png" />](https://go.dev)
 [<img align="left" alt="Rust" width="32px" src="/icons/rust.png" />](https://www.rust-lang.org)
 [<img align="left" alt="AngularJS" width="32px" src="/icons/agularjs.png" />](https://angularjs.org)
 [<img align="left" alt="VueJS" width="32px" src="/icons/vuejs.png" />](https://vuejs.org)
-[<img align="left" alt="Tailwind CSS" width="32px" src="/icons/tailwind.png" />](https://tailwindcss.com/)
-[<img align="left" alt="VIM" width="32px" src="/icons/vim.png" />](https://www.vim.org)
 [<img align="left" alt="tRPC" width="32px" src="/icons/trpc.png" />](https://trpc.io/)
 
 <br>
