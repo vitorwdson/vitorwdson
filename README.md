@@ -21,6 +21,7 @@
 [<img align="left" alt="Tailwind CSS" width="32px" src="/icons/tailwind.png" />](https://tailwindcss.com/)
 [<img align="left" alt="VIM" width="32px" src="/icons/vim.png" />](https://www.vim.org)
 [<img align="left" alt="GO" width="32px" src="/icons/go.png" />](https://go.dev)
+[<img align="left" alt="HTMX" width="32px" src="/icons/htmx.png" />](https://htmx.org/)
 
 <br>
 <br>
