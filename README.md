@@ -26,15 +26,6 @@
 <br>
 <br>
 
-### Technologies I plan to learn in 2023 💪
-[<img align="left" alt="Rust" width="32px" src="/icons/rust.png" />](https://www.rust-lang.org)
-[<img align="left" alt="AngularJS" width="32px" src="/icons/agularjs.png" />](https://angularjs.org)
-[<img align="left" alt="VueJS" width="32px" src="/icons/vuejs.png" />](https://vuejs.org)
-[<img align="left" alt="tRPC" width="32px" src="/icons/trpc.png" />](https://trpc.io/)
-
-<br>
-<br>
-
 ### Contact me! 📝
 [<img align="left" alt="LinkedIn" width="32px" src="/icons/linkedin.png" />](https://www.linkedin.com/in/vitor-wdson-0148b7227/)
 [<img align="left" alt="Discord" width="32px" src="/icons/discord.png" />](https://discordapp.com/users/287051666166120448)
